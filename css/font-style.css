@@ -1,4 +1,13 @@
-.icon-certificate {
+.sae__header-logo__icon-style {
+    display: inline-block;
+    margin: 5px;
     font-size: 2em;
     color: orange;
+}
+
+.sae__header-text__font-style {
+    color: darkgoldenrod;
+    
+    font-size: 2em;
+    text-transform: uppercase;
 }
